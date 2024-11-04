@@ -1,4 +1,4 @@
-# Deep Learning-Based Architectural Classification for Heart Disease Prediction
+# Deep Learning-Based Architectural Classification for Heart Disease Prediction \n \n
 
 # Overview
 ### This project focuses on the analysis and prediction of heart attacks and heart diseases using various machine learning algorithms. The goal is to identify the most accurate model for predicting heart disease outcomes.
